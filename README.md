@@ -2,9 +2,9 @@
 This is a series of models I worked on while studying Reinforcement Learning.
 
 Resource study:
-[Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html)
-[David Silver lectures](https://www.davidsilver.uk/teaching/)
-[AI-Core Reinforcement Learning course](https://theaicore.com/)
+* [Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html)
+* [David Silver lectures](https://www.davidsilver.uk/teaching/)
+* [AI-Core Reinforcement Learning course](https://theaicore.com/)
 
 
 ## DQN-Atari-Breakout

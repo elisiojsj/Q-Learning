@@ -17,7 +17,9 @@ approximate a value function to learn to play the game. It also utilize the Expe
 
 The method used was TD (Temporal-Difference) Learning.
 A trained agent can be found in the folder agents.
+
 ![VB_breakout](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/gym-results-breakout/VB_breakout.gif)
+
 
 **DQN-CartPole**
 Implementation of Deep Q Network to solve [CartPole](https://gym.openai.com/envs/CartPole-v1/) environment with a simple Neural Network, TD Learning, Q-target and Experience Replay. 
@@ -50,7 +52,9 @@ Implementation of REINFORCE, a Monte Carlo policy-gradient algorithm in the [Acr
 **ActorCritic-Lunar_Lander**
 This is an implementation of the interesting Actor-Critic algorithm which is roughly a way to take the best of the techniques of Policy-Based and Value-Based approaches. This one was implemented in the [LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2/) environment.
 A trained agent can be found in the folder agents. And recordings can be found in the folder recordings.
+
 ![AC_lunarlander](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Actor-Critic/recordings-AC-lunarlander/AC_lunarlander.gif)
+
 
 ## Extra
 [Playing a Gym Atari game in the jupyter notebook](https://braraki.github.io/research/2018/06/15/play-openai-gym-games/)

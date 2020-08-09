@@ -18,7 +18,7 @@ approximate a value function to learn to play the game. It also utilize the Expe
 The method used was TD (Temporal-Difference) Learning.
 A trained agent can be found in the folder agents.
 
-![VB_breakout](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/gym-results-breakout/VB_breakout.gif)
+![VB_breakout](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/images/VB_breakout.gif)
 
 
 **[DQN-CartPole](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/DQN-CartPole.ipynb)**
@@ -27,6 +27,8 @@ Implementation of Deep Q Network to solve [CartPole](https://gym.openai.com/envs
 **[Q-Learning-CartPole](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/Q-Learning-CartPole.ipynb)**
 Q Learning implementation to solve [CartPole](https://gym.openai.com/envs/CartPole-v1/) environment with a simple Neural Network.
 A trained agent can be found in the folder agents.
+
+![Q-learning-cartpole](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/images/ql-cartpole.gif)
 
 **[Q-Learning-MountainCar](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/Q-Learning-MountainCar.ipynb)**
 Q Learning implementation to solve [MountainCar](https://gym.openai.com/envs/MountainCar-v0/) environment with a simple Neural Network.

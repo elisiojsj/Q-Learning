@@ -41,6 +41,8 @@ A tabular classical Q-Learning was used to implement the [Taxi-v3]('https://gym.
 An interesting approach was used to make it possible to apply a classical tabular Q-Learning on a more complex continuous environment like [MountainCar](https://gym.openai.com/envs/MountainCar-v0/) using numpy functions of digitize and linspace.
 Furthermore, it counts with the implementation of two control methods for TD which are SARSA and Q-Learning.
 
+![tabql-cartpole](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Value-Based/images/tabql-cartpole.gif)
+
 ---
 
 # Policy-Based
@@ -50,6 +52,8 @@ A trained agent can be found in the folder agents.
 
 ## [PolicyGradients-Acrobot](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Policy-Based/PolicyGradients-Acrobot.ipynb)
 Implementation of REINFORCE, a Monte Carlo policy-gradient algorithm in the [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/).
+
+![Acrobot](https://github.com/elisiojsj/Reinforcement-Learning/blob/master/Policy-Based/images/pg-acrobot.gif)
 
 ---
 
